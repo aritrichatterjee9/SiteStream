@@ -1,4 +1,4 @@
-# SiteStream
+# SiteStream using HTML CSS JS
 Deployed in vercel: https://ori-streaming-star.vercel.app/
 
 
